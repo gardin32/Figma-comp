@@ -1,15 +1,15 @@
 /* Add screen styles below */
 body {
-    background: #FFFFFF;
+    background: #44AF69;
 }
 h1 {
     background: #fcab10;
     font-size: xx-large;
-    color: #ffffff;
+    color: #44AF69;
 }
 
 p1 {
-    color: #44AF69;
+    color: #ffffff;
     font-size: x-large;
 }
 
