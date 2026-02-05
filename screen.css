@@ -13,6 +13,15 @@ p1 {
     font-size: x-large;
 }
 
+.flex-container {
+    display: flex;
+    gap: 20x;
+}
+
+.column {
+    flex: 1;
+}
+
 h2 {
     color: #fcab10;
     font-size: larger;
