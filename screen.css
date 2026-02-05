@@ -15,7 +15,6 @@ p1 {
 
 .flex-container {
     display: flex;
-    gap: 20x;
 }
 
 .column {
