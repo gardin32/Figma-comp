@@ -5,6 +5,6 @@ body {
 }
 h1 {
     background: #fcab10;
-    
-    padding: 20px;
+    font-size: larger;
+    color: #44AF69;
 }
