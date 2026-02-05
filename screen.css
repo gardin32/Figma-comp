@@ -6,5 +6,14 @@ body {
 h1 {
     background: #fcab10;
     font-size: larger;
-    color: #44AF69;
+    color: #ffffff;
+}
+
+p1 {
+    color: #44AF69
+}
+
+h2 {
+    color: #fcab10;
+    font-size: large;
 }
