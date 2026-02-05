@@ -9,10 +9,16 @@ h1 {
 }
 
 p1 {
-    color: #44AF69
+    color: #44AF69;
+    font-size: x-large;
 }
 
 h2 {
     color: #fcab10;
+    font-size: larger;
+}
+
+p2 {
+    color: #44AF69;
     font-size: large;
 }
