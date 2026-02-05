@@ -25,6 +25,10 @@ p1 {
     flex: 1;
 }
 
+img {
+    width: 500px;
+}
+
 h2 {
     color: #fcab10;
     font-size: larger;
