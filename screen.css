@@ -20,7 +20,7 @@ p1 {
 .flex-container {
     display: flex;
     justify-content: center;
-    gap: 14px;
+    gap: 5px;
     max-width: 500px;
     margin: 0 auto;
 }
