@@ -10,7 +10,7 @@ h1 {
 }
 
 p1 {
-    color: #ffffff;
+    color: rbga(68, 175, 105, 1);
     font-size: x-large;
 }
 
