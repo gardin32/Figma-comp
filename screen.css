@@ -20,7 +20,7 @@ p1 {
 .flex-container {
     display: flex;
     justify-content: center;
-    gap: 24px;
+    gap: 14px;
     max-width: 500px;
     margin: 0 auto;
 }
@@ -43,5 +43,4 @@ h2 {
 p2 {
     color: rgba(68, 175, 105, 1);
     font-size: larger;
-
 }
