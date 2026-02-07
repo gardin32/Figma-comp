@@ -28,14 +28,17 @@ p1 {
 
 img {
     width: 200px;
+    margin-top: 20px;
 }
 
 h2 {
     color: #fcab10;
     font-size: larger;
+    margin-top: 20px;
 }
 
 p2 {
     color: rgba(68, 175, 105, 1);
     font-size: large;
+    margin-top: 20px;
 }
